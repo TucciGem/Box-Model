@@ -1,0 +1,24 @@
+.body{background-image: url(./syspic2.jpg);
+
+}
+.button1{
+    text-decoration: none;
+    color: white;
+    background-color: purple;
+    height: 10vh;
+    width: 45vw;
+    border: none;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.button2{
+    text-decoration: transparent;
+    background-color: white;
+    color: black;
+    height: 10vh;
+    width: 45vw;
+    margin: 1em;
+    font-size: larger;
+    font-weight: bold;
+}
